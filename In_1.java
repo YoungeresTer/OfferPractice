@@ -38,6 +38,8 @@ public class In_1 {
         for (int i = 0;i < chs.length;i++){
             Insert(chs[i]);
             System.out.print(FirstAppearingOnce() + " ");
+	    
         }
+	System.out.println("end");
     }
 }
