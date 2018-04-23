@@ -40,6 +40,6 @@ public class In_1 {
             System.out.print(FirstAppearingOnce() + " ");
 	    
         }
-	System.out.println("end");
+	System.out.println("end by github");
     }
 }
